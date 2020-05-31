@@ -1,0 +1,9 @@
+{
+  "connection": {
+    "username": "vnhnvkh",
+    "password": "123456",
+    "database": "dev_example_db",
+    "host": "localhost",
+    "client": "mysql2"
+  }
+}
